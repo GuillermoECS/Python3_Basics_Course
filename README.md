@@ -36,7 +36,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GuillermoECS/Django-Tutorial
+$ git clone https://github.com/GuillermoECS/Python3_Basics_Course
 
 # Go into desired lesson
 $ cd "lesson name"
