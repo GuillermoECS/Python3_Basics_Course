@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.python.org/"><img src="http://pngimage.net/wp-content/uploads/2018/06/python-png-6.png" alt="Markdownify" width="350"></a>
+  <a href="https://www.python.org/"><img src="http://pngimage.net/wp-content/uploads/2018/06/python-png-6.png" alt="Markdownify" width="380"></a>
   <br>
   Basic Concepts of Python 3 Programming.
   <br>
@@ -42,7 +42,7 @@ $ git clone https://github.com/GuillermoECS/Django-Tutorial
 $ cd "lesson name"
 
 # Run Python file
-$ python "Python file name"
+$ python "Python file name".py
 ```
 
 ## Credits
